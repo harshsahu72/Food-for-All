@@ -69,3 +69,7 @@ Modern UI design
 📊 Live Counters
 
 Animated statistics showing platform activity.
+
+**Harsh Kumar**
+ | Student
+ << Working on Frontend Designing
